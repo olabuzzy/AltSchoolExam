@@ -22,4 +22,4 @@
 
 ## 📸 Screenshot
 
-![Landing Page](screenshot.png)
+![Landing Page](Landng Page.png)
